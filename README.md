@@ -1,4 +1,4 @@
-#Using a Pull Request Template
+# Using a Pull Request Template
 
 1. In your project's root directory, create a `.github` directory
 2. In that directory create a file called `PULL_REQUEST_TEMPLATE.md`. It must be named exactly like that in order for Github to recognize the file as a Pull Request Template.
